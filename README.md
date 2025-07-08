@@ -2,6 +2,24 @@
 
 A modern, responsive web application for creating professional resumes with real-time preview and PDF export functionality.
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/7f8dcbb8-bdb7-4bfe-8e48-f3313d858821)
+
+![image](https://github.com/user-attachments/assets/169f315f-f195-4598-ba52-6addb1687b67)
+
+![image](https://github.com/user-attachments/assets/6efbd626-55ba-4bda-b8fc-2eb39931bdd5)
+
+![image](https://github.com/user-attachments/assets/521247b6-02d3-4f3e-a350-4002bdc327a0)
+
+![image](https://github.com/user-attachments/assets/e81d7d4e-08e8-4e79-8496-dd1d3caca279)
+
+![image](https://github.com/user-attachments/assets/bf202000-383f-4c6b-a09f-469c0e5a2a2d)
+
+##ATS Score
+
+![image](https://github.com/user-attachments/assets/a19fae1e-027d-4fe6-b41c-fdcb81cbddf6)
+
 ## Features
 
 ### ✨ Core Features
