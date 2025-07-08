@@ -20,6 +20,9 @@ A modern, responsive web application for creating professional resumes with real
 
 ![image](https://github.com/user-attachments/assets/a19fae1e-027d-4fe6-b41c-fdcb81cbddf6)
 
+## Website Link
+https://resume-generator-mu-tawny.vercel.app/
+
 ## Features
 
 ### ✨ Core Features
@@ -142,18 +145,31 @@ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 
 
 resume-builder.html
+
 ├── HTML Structure
+
 │   ├── Form Section (left panel)
+
 │   └── Preview Section (right panel)
+
 ├── CSS Styles
+
 │   ├── Layout and grid
+
 │   ├── Form styling
+
 │   ├── Preview styling
+
 │   └── Responsive design
+
 └── JavaScript
+
     ├── Form handling
+    
     ├── Real-time preview updates
+    
     ├── Dynamic section management
+    
     └── PDF generation
 
 
